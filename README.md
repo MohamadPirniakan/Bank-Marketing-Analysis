@@ -8,8 +8,7 @@ This project focuses on predicting customer responses to bank marketing campaign
 - [Project Structure](#project-structure)
 - [Methodology](#methodology)
 - [Dependencies](#dependencies)
-- [Results](#results)
-- [License](#license)
+
 
 ## Installation
 1. Clone this repository:
