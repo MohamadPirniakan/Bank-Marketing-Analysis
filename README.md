@@ -14,7 +14,7 @@ This project focuses on predicting customer responses to bank marketing campaign
 ## Installation
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/Bank-Marketing-Analysis.git
+    https://github.com/MohamadPirniakan/Bank-Marketing-Analysis.git
     cd Bank-Marketing-Analysis
     ```
 
